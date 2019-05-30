@@ -1,0 +1,10 @@
+.pm2
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+
